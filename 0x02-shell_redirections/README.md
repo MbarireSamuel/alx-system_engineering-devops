@@ -1,1 +1,1 @@
-echo hello world script
+Ôo script
